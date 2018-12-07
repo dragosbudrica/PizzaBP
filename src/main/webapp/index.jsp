@@ -50,12 +50,12 @@
                 <span class="date">April 25, 2017</span>
                 <h2><a href="#">Cea mai buna pizza<br />
                     Doar la Budrica si Padeanu</a></h2>
-                <p>Daca vreti o pizza buna,
-                    Sa nu va mai saturati,
-                    Strangeti banii pe o luna
-                    De laa noi sa cumparati.</p>
+                <p>Daca vreti o pizza buna,</p>
+                <p> Sa nu va mai saturati,</p>
+                <p>Strangeti banii pe o luna</p>
+                <p> De la noi sa cumparati.</p>
             </header>
-            <a href="#" class="image main"><img src="/resources/images/pic01.jpg" alt="" /></a>
+            <a href="#" class="image main"><img src="/resources/images/pizzapic.jpg" alt="" /></a>
             <ul class="actions special">
                 <li><a href="#" class="button large">Full Story</a></li>
             </ul>
@@ -66,11 +66,11 @@
             <article>
                 <header>
                     <span class="date">April 24, 2017</span>
-                    <h2><a href="#">Sed magna<br />
-                        ipsum faucibus</a></h2>
+                    <h2><a href="#">Pizza Buna<br />
+                        Made by Budrica</a></h2>
                 </header>
-                <a href="#" class="image fit"><img src="/resources/images/pic02.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+                <a href="#" class="image fit"><img src="/resources/images/pizzaunu.jpeg" alt="" /></a>
+                <p>Se stie ca Budrica face pizza ca in Lapus. Nu veti regreta.</p>
                 <ul class="actions special">
                     <li><a href="#" class="button">Full Story</a></li>
                 </ul>
@@ -78,11 +78,11 @@
             <article>
                 <header>
                     <span class="date">April 22, 2017</span>
-                    <h2><a href="#">Primis eget<br />
-                        imperdiet lorem</a></h2>
+                    <h2><a href="#">Pizza Buna<br />
+                        Made by Radu</a></h2>
                 </header>
-                <a href="#" class="image fit"><img src="/resources/images/pic03.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+                <a href="#" class="image fit"><img src="/resources/images/pizzadoi.jpeg" alt="" /></a>
+                <p>Pizza din Rovine sau Bucuresti, cu pofta s-o cantaresti. Unicata !.</p>
                 <ul class="actions special">
                     <li><a href="#" class="button">Full Story</a></li>
                 </ul>
@@ -90,11 +90,11 @@
             <article>
                 <header>
                     <span class="date">April 18, 2017</span>
-                    <h2><a href="#">Ante mattis<br />
-                        interdum dolor</a></h2>
+                    <h2><a href="#">Pizza Buna<br />
+                        Cat curu lui Sotea</a></h2>
                 </header>
-                <a href="#" class="image fit"><img src="/resources/images/pic04.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+                <a href="#" class="image fit"><img src="/resources/images/pizzatrei.jpeg" alt="" /></a>
+                <p>O gasiti la Metal Lemn, dar nu-ti va da niciun semn.</p>
                 <ul class="actions special">
                     <li><a href="#" class="button">Full Story</a></li>
                 </ul>
@@ -102,11 +102,11 @@
             <article>
                 <header>
                     <span class="date">April 14, 2017</span>
-                    <h2><a href="#">Tempus sed<br />
-                        nulla imperdiet</a></h2>
+                    <h2><a href="#">Pizza Buna<br />
+                        A la Solea</a></h2>
                 </header>
-                <a href="#" class="image fit"><img src="/resources/images/pic05.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+                <a href="#" class="image fit"><img src="/resources/images/pizzapatru.jpeg" alt="" /></a>
+                <p>Pizza de la Panaghia.</p>
                 <ul class="actions special">
                     <li><a href="#" class="button">Full Story</a></li>
                 </ul>
@@ -114,11 +114,11 @@
             <article>
                 <header>
                     <span class="date">April 11, 2017</span>
-                    <h2><a href="#">Odio magna<br />
-                        sed consectetur</a></h2>
+                    <h2><a href="#">Pizza Neagra<br />
+                        Ca Adi Popa</a></h2>
                 </header>
-                <a href="#" class="image fit"><img src="/resources/images/pic06.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+                <a href="#" class="image fit"><img src="/resources/images/pizzacinci.jpeg" alt="" /></a>
+                <p>Sfintita chiar de Adi Popa.</p>
                 <ul class="actions special">
                     <li><a href="#" class="button">Full Story</a></li>
                 </ul>
@@ -126,11 +126,11 @@
             <article>
                 <header>
                     <span class="date">April 7, 2017</span>
-                    <h2><a href="#">Augue lorem<br />
-                        primis vestibulum</a></h2>
+                    <h2><a href="#">Pizza Buna<br />
+                        Ca aia de la Pizza Hut</a></h2>
                 </header>
-                <a href="#" class="image fit"><img src="/resources/images/pic07.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+                <a href="#" class="image fit"><img src="/resources/images/pizzasase.jpeg" alt="" /></a>
+                <p>Glumim, mult mai buna ca la PizzaHut.</p>
                 <ul class="actions special">
                     <li><a href="#" class="button">Full Story</a></li>
                 </ul>
